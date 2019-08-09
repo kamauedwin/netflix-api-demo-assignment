@@ -14,13 +14,13 @@ updating, creating and deleting.
 Create a simple Netflix API server to represent the above description.
 
 Marking area to earn marks:
-● Correct identification of models
-● Correct modelling of relationships between the models that you come up with.
-● Enforcing that update, delete only apply to one owns’ content
-● Implementation of SQL persistence layer
-● Good error handling.
+Correct identification of models
+Correct modelling of relationships between the models that you come up with.
+Enforcing that update, delete only apply to one owns’ content
+Implementation of SQL persistence layer
+Good error handling.
 Section 2.
 Model a simple Netflix client to consume your server.
 Instructions
-● Groups of 4
-● Presentation date: 9th August 2019.
+Groups of 4
+Presentation date: 9th August 2019.
