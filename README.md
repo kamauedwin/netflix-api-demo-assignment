@@ -1,5 +1,5 @@
 # netflix-api-demo-assignment
-Assignmnet 
+# Assignmnet 
 Section 1.
 Netflix would like to expose an API through which clients can build up client applications to see
 available movies to watch. Movies can belong to multiple categories. Netflix provides an
@@ -21,6 +21,3 @@ Implementation of SQL persistence layer
 Good error handling.
 Section 2.
 Model a simple Netflix client to consume your server.
-Instructions
-Groups of 4
-Presentation date: 9th August 2019.
